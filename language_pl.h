@@ -34,7 +34,7 @@
 //#define SIMULATE_ROMFONT
 #define DISPLAY_CHARSET_ISO10646_1
 
-#define WELCOME_MSG                         "GOTOWA DO PRACY"
+#define WELCOME_MSG                         "THE DOCTOR IS IN"
 #define MSG_SD_INSERTED                     "Karta wlozona"
 #define MSG_SD_REMOVED                      "Karta usunieta"
 #define MSG_LCD_ENDSTOPS                    "Krancow." // Max length 8 characters
